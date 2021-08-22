@@ -8,6 +8,7 @@ Added HWID Lock
 Added Discord link
 
 Added github link
+
 -----------------------------
 if you dont know or cant install these pips in console then look at this video
 -https://www.youtube.com/watch?v=9D8TXQkO948
