@@ -14,21 +14,37 @@ if you dont know or cant install these pips in console then look at this video
 -https://www.youtube.com/watch?v=9D8TXQkO948
 
 pip install tkinter
+
 pip install pymem
+
 pip install re
+
 pip install os
+
 pip install webbrowser
+
 pip install itertools 
+
 pip install cycle
+
 pip install threading
+
 pip install time
+
 pip install sys
+
 pip install subprocess
+
 pip install requests
+
 pip install time
+
 pip install sys
+
 pip install os
+
 pip install time
+
 -----------------------------
 Going to add 
 - no-flash hack
