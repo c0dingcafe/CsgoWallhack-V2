@@ -2,8 +2,11 @@
 A csgo hack updated and fixed
 -----------------------------
 Added a loader
+
 Added HWID Lock
+
 Added Discord link
+
 Added github link
 -----------------------------
 if you dont know or cant install these pips in console then look at this video
