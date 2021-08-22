@@ -51,6 +51,7 @@ Going to add
 - better gui
 - registration and login
 - Bhop hack
+- Fps Indicator
 -----------------------------
 If you are a python programmer please contact me i would like help and i could pay
 
