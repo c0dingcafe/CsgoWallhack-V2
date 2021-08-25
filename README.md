@@ -1,4 +1,4 @@
-# CsgoWallhack-UPDATED
+# CsgoWallhack
 A csgo hack updated and fixed
 -----------------------------
 Added a loader
